@@ -1,0 +1,3 @@
+This document outlines the business continuity plan for a banking system.
+It describes procedures to maintain critical banking operations during emergencies.
+The plan ensures minimal service disruption and quick system recovery.
