@@ -1,0 +1,3 @@
+This document describes the project plan for IT disaster recovery and business continuity planning for a banking system.
+The project focuses on ensuring system availability data protection and quick recovery during disruptions.
+It includes project scope schedule risk management and change control process.
