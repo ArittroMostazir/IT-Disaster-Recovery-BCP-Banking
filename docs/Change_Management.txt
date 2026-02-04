@@ -1,0 +1,3 @@
+This document explains how change requests are handled during the project.
+All changes are reviewed for impact on time cost and scope before approval.
+Approved changes are updated in project documents and tracked using GitHub.
