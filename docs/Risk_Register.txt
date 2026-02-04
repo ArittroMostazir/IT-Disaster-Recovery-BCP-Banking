@@ -1,0 +1,3 @@
+This document lists the main risks related to IT disaster recovery in a banking system.
+Key risks include cyber attacks data loss system downtime and regulatory non compliance.
+Each risk is analysed and mitigation actions are identified to reduce impact.
